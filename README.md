@@ -21,3 +21,4 @@ Content-Based Filtering:Recommend items based on a user’s preferences and the 
 Hybrid Filtering:Combine collaborative and content-based filtering for better accuracy.
 
 Output of the task
+![Task4 output](https://github.com/user-attachments/assets/73d049fe-b683-4fc1-8100-98c13418e40b)
